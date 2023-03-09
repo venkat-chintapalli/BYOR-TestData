@@ -4,3 +4,9 @@ fileignoreconfig:
 - filename: Thoughtworks Technology Radar Vol. 27 - Build your Technology Radar.csv
   checksum: 9a500d636aee921b44b19f69a4f0893980d9fa5aedaa9fe3d0733a1fb93ce631
 version: ""
+fileignoreconfig:
+- filename: jsondata.json
+  checksum: 99e47b390b137ce013b3bb2c215533c62a955e162de0aaf6610b00dbd6a332ca
+- filename: Thoughtworks Technology Radar Vol. 27 - Build your Technology Radar.json
+  checksum: 8ab048b388458ea641cdcfd3b48b5a24ba421afb61b9569137ac5c93bdfa1086
+version: ""
