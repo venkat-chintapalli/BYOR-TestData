@@ -26,5 +26,33 @@
         "quadrant": "languages-and-frameworks",
         "isNew": "TRUE",
         "description": "description"
-       }
+       },
+    {
+        "name": "Local-second application",
+        "ring": "Adopt",
+        "quadrant": "Tools",
+        "isNew": "FALSE",
+        "description": "description Local-second application"
+    },
+    {
+        "name": "Local-third application",
+        "ring": "Trail",
+        "quadrant": "Techniques",
+        "isNew": "TRUE",
+        "description": "description Local-third application"
+    },
+    {
+        "name": "Local-Fourth application",
+        "ring": "Assess",
+        "quadrant": "languages-and-frameworks",
+        "isNew": "TRUE",
+        "description": "description Local-Fourth application"
+    },
+    {
+        "name": "Local-Five application",
+        "ring": "Hold",
+        "quadrant": "Platforms",
+        "isNew": "TRUE",
+        "description": "description Local-Five application"
+    }
 ]
