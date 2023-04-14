@@ -16,7 +16,7 @@
     {
         "name": "Local-first application",
         "ring": "Assess",
-        "quadrant": "Tools",
+        "quadrant": "Platforms",
         "isNew": "FALSE",
         "description": "description"
     },
@@ -30,7 +30,7 @@
     {
         "name": "Local-second application",
         "ring": "Adopt",
-        "quadrant": "Tools",
+        "quadrant": "Platforms",
         "isNew": "FALSE",
         "description": "description Local-second application"
     },
