@@ -4,49 +4,56 @@
      "ring": "Adopt",
      "quadrant": "Techniques",
      "isNew": "TRUE",
-     "description": "description"
+     "description": "description",
+     "status":"no change"
     },
     {
         "name": "Team cognitive load",
         "ring": "Hold",
         "quadrant": "Platforms",
         "isNew": "FALSE",
-        "description": "description"
+        "description": "description",
+         "status":"moved in"
     },
     {
         "name": "Local-first application",
         "ring": "Assess",
         "quadrant": "Platforms",
         "isNew": "FALSE",
-        "description": "description"
+        "description": "description",
+         "status":"new"
     },
     {
         "name": "Astro",
         "ring": "Trial",
         "quadrant": "languages-and-frameworks",
         "isNew": "TRUE",
-        "description": "description"
+        "description": "description",
+         "status":"moved out"
        },
     {
         "name": "Local-second application",
         "ring": "Adopt",
         "quadrant": "Platforms",
         "isNew": "FALSE",
-        "description": "description Local-second application"
+        "description": "description Local-second application",
+         "status":"no change"
     },
     {
         "name": "Local-third application",
         "ring": "Trail",
         "quadrant": "Techniques",
         "isNew": "TRUE",
-        "description": "description Local-third application"
+        "description": "description Local-third application",
+         "status":"no change"
     },
     {
         "name": "Local-Fourth application",
         "ring": "Assess",
         "quadrant": "languages-and-frameworks",
         "isNew": "TRUE",
-        "description": "description Local-Fourth application"
+        "description": "description Local-Fourth application",
+         "status":"no change"
     },
     {
         "name": "Local-Five application",
