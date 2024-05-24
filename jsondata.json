@@ -61,5 +61,28 @@
         "quadrant": "Platforms",
         "isNew": "TRUE",
         "description": "<a href=\"#\" target=\"_blank\">Test</a>"
-    }
+    },{
+        "name": "Local-third application",
+        "ring": "Hold",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "description Local-second application",
+         "status":"no change"
+    },
+    {
+        "name": "Local-four application",
+        "ring": "Hold",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "description Local-second application",
+         "status":"new"
+    },
+    {
+        "name": "Local-five application",
+        "ring": "Hold",
+        "quadrant": "Platforms",
+        "isNew": "FALSE",
+        "description": "description Local-second application",
+         "status":"moved out"
+    },
 ]
