@@ -61,7 +61,8 @@
         "quadrant": "Platforms",
         "isNew": "TRUE",
         "description": "<a href=\"#\" target=\"_blank\">Test</a>"
-    },{
+    },
+    {
         "name": "Local-seven application",
         "ring": "Hold",
         "quadrant": "Platforms",
@@ -76,13 +77,5 @@
         "isNew": "FALSE",
         "description": "description Local-second application",
          "status":"new"
-    },
-    {
-        "name": "Local-six application",
-        "ring": "Hold",
-        "quadrant": "Platforms",
-        "isNew": "FALSE",
-        "description": "description Local-second application",
-         "status":"moved out"
     }
 ]
