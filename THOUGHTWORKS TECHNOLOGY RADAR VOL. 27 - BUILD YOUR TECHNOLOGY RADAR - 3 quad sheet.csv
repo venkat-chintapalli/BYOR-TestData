@@ -1,11 +1,11 @@
-name,ring,quadrant,isNew,description
-Test6,Adopt,languages & frameworks,FALSE,testing 2
-Test7,TRAIL,languages-AND-frameworks,FALSE,testing 3
-Test7,assess,languages-&-frameworks,FALSE,testing 3
-Test8,assess,pl atforms,TRUE,testing 4
-Test9,hold,toOLs,FALSE,testing 5
-Test10,trial,toOLs,TRUE,"<a href=""#"" target=""blank"" rel=""rel"" test=""data"">testing 5</a>"
-Test11,assess,langeuages-and-frameworks,TRUE,testing 5
-Test12,hold,languages and frameworks,FALSE,testing 5
-Test12,ADOPT,Platforms,TRUE,testing 5
-Test 13,assess,Platforms,TRUE,testing 5
+name,ring,quadrant,isNew,description,status
+Test6,Adopt,languages & frameworks,FALSE,testing 2,no change
+Test7,TRAIL,languages-AND-frameworks,FALSE,testing 3,no change
+Test7,assess,languages-&-frameworks,FALSE,testing 3,no change
+Test8,assess,pl atforms,TRUE,testing 4,new
+Test9,hold,toOLs,FALSE,testing 5,moved in
+Test10,trial,toOLs,TRUE,"<a href=""#"" target=""blank"" rel=""rel"" test=""data"">testing 5</a>",no change
+Test11,assess,langeuages-and-frameworks,TRUE,testing 5,moved out
+Test12,hold,languages and frameworks,FALSE,testing 5,new
+Test12,ADOPT,Platforms,TRUE,testing 5,no change
+Test 13,assess,Platforms,TRUE,testing 5,moved in
